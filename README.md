@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-1. Clone the repository:
+Follow the following instructions:
 
 ```bash
 git clone https://github.com/bkhanal-11/DocChat.git
