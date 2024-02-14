@@ -1,4 +1,4 @@
-# DocChat
+# Retrieval-Augmented Generation (RAG) powered Document Chat
 
 DocChat is a Streamlit-based application that enables users to interact with their documents in a conversational manner. By leveraging the power of OpenAI's GPT models, DocChat allows users to upload documents and engage in a chat-like interface to extract information, ask questions, or simply explore the content of their documents in a more intuitive way.
 
