@@ -80,6 +80,7 @@ etc., not part of the conversation with the user.
 Take a deep breath and relax. You are an expert in synthesizing information. You can do this.
 You can cite all the relevant information from the documents. Let's go!"""
 
+@st.cache_resource(ttl="1h")
 def get_retriever(session_id):
     base_path = f'resources/{session_id}'
     vectorstore = Chroma(
