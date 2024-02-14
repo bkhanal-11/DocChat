@@ -33,16 +33,4 @@ streamlit run app.py
 
 After running the command, Streamlit will start the application and provide a local URL which you can visit using your web browser to access DocChat.
 
-### Configuration
-
-- **OpenAI API Key**: Enter your OpenAI API key in the sidebar within the application to enable the document processing features.
-- **Document Upload**: Supported document types include PDF, DOCX, Markdown, and text files. You can upload multiple documents at once.
-
-## Contributing
-
-We welcome contributions to DocChat! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. You can also open an issue if you encounter any problems or have any questions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
