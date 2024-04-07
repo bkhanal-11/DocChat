@@ -7,7 +7,11 @@ If you've ever considered building an AI application on top of Large Language Mo
 
 Retrieval-Augmented Generation is a powerful technique that merges retrieval and generation to enhance the quality and pertinence of AI-generated content. Within LangChain, RAG signifies the fusion of retrieval mechanisms and language models, such as ChatGPT, to forge a sophisticated question-answering system.
 
+![LLM Training](_static/llms.png)
+
 In essence, RAG empowers you to engage in a Q&A dialogue with your data, be it documents, web content, or an SQL database. Let's unpack how it operates.
+
+![RAG](_static/rag.png)
 
 Before diving into the implementation, ensure you have the necessary packages installed. Run the following commands to install LangChain and its associated libraries, as well as other dependencies required for document processing and vector database:
 
